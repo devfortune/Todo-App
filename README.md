@@ -1,2 +1,1 @@
-"# Todo-App"  git init git add README.md
-"# Todo-App" 
+Todo App written on Java and Spring Boot. 
