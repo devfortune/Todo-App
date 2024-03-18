@@ -9,8 +9,6 @@ Simple Todo app to keep track of goals and plans. Intuitive and minimalistic int
 ![image](https://github.com/devfortune/Todo-App/assets/125195224/eea5a232-e319-4bf2-9d5f-3de9fb0c3fe8)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Built With
 
@@ -20,7 +18,7 @@ Simple Todo app to keep track of goals and plans. Intuitive and minimalistic int
 * JSTL
 * Bootstrap
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
